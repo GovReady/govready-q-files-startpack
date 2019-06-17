@@ -1,2 +1,3 @@
-# govready-q-starter-assessments
-Starter assessments for GovReady-Q
+# govready-q-files-startpack
+
+Starter assessment files for GovReady-Q.
